@@ -4,7 +4,7 @@ An interactive **Power BI dashboard** developed to analyze the financial positio
 
 ## 📸 Dashboard Preview
 
-![AL-RAYAN Financial Position Dashboard](AL-RAYAN_FINANCIAL_POSITION_DASHBOARD.png)
+![AL-RAYAN Financial Position Dashboard](AL-RAYAN_FINANCIAL_POSITION_DASHBOARD.jpeg)
 
 ---
 
